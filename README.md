@@ -16,8 +16,7 @@ Este proyecto se desarrolló para explicar a detalle cómo implementar y combina
 ## 📐 Arquitectura de Red (Topología)
 > *Topología lógica y física implementada para el despliegue del túnel seguro a través de una red pública.*
 
-![ Topología de Red ](ruta/a/tu/imagen_topologia.png)
-*(Nota: Reemplaza "ruta/a/tu/imagen_topologia.png" con la ubicación real de tu imagen dentro de la carpeta "img")*
+![ Topología de Red ](Diagrama_VPN.png)
 
 **Detalles de Direccionamiento:**
 * **Redes Físicas (WAN):** 10.1.1.0/24 y 192.168.1.0/24
